@@ -15,7 +15,7 @@ chatgpt实践经验
 
 原文：[https://help.openai.com/en/articles/5832130-what-s-changed-with-engine-names-and-best-practices](https://help.openai.com/en/articles/5832130-what-s-changed-with-engine-names-and-best-practices)
 
-![Uploading 截屏2023-02-27 18.12.36.png…]()
+![截屏2023-02-27 18.14.12.png]()
 
 
 
