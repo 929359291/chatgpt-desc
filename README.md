@@ -15,77 +15,9 @@ chatgpt实践经验
 
 原文：[https://help.openai.com/en/articles/5832130-what-s-changed-with-engine-names-and-best-practices](https://help.openai.com/en/articles/5832130-what-s-changed-with-engine-names-and-best-practices)
 
-| 
-**Type**
+![Uploading 截屏2023-02-27 18.12.36.png…]()
 
- | 
 
-**Old engine name**
-
- | 
-
-**New engine name**
-
- |
-| 
-
-**Latest Instruct GPT-3 models**
-
- | 
-
-davinci-instruct-beta-v3
-
-curie-instruct-beta-v2
-
-babbage-instruct-beta
-
-ada-instruct-beta
-
- | 
-
-text-davinci-001
-
-text-curie-001
-
-text-babbage-001
-
-text-ada-001
-
- |
-| 
-
-**Older Instruct GPT-3 models**
-
- | 
-
-davinci-instruct-beta
-
-curie-instruct-beta
-
- | 
-
-_No change_
-
- |
-| 
-
-**Base GPT-3 models**
-
- | 
-
-davinci
-
-curie
-
-babbage
-
-ada
-
- | 
-
-_No change_
-
- |
 
 #### 3、官方推荐的方案
 
